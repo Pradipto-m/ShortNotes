@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShortNotes</string>
+    <string name="title">Title</string>
+    <string name="date">date</string>
+    <string name="notes">notes</string>
+    <string name="note">Notes:</string>
+    <string name="delete">Delete</string>
+    <string name="take_notes">Take Notes</string>
+</resources>
